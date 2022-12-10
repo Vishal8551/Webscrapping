@@ -1,5 +1,5 @@
 # Webscrapping
-#In this repository I have write a code for webscrapping.
+#In this repository I wrote python code to do webscrapping.By using this code we can access any website's html code.
 
 #Install All the requirements
 
